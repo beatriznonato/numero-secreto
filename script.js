@@ -1,4 +1,4 @@
-let segredo = 47;
+let segredo = Math.floor(Math.random() * 50) + 1;
 let escolha;
 
 while(escolha !== segredo){ // !== diferente
