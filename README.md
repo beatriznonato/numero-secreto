@@ -8,4 +8,4 @@ O jogador pode "chutar" um número, e o seu programa deve exibir:
 
 O jogo só acaba quando o jogador acerta.
 
-BONUS: Pesquisar na internet como gerar um número ALEATORIAMENTE de 1 á 50, para salvar com a variável.
+BONUS: Pesquisar na internet como gerar um número ALEATÓRIO de 1 á 50, para salvar com a variável.
